@@ -4,5 +4,4 @@ numpy
 pandas
 face-recognition
 dlib
-sqlite3
 openpyxl
